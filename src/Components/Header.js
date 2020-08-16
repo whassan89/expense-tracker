@@ -2,9 +2,10 @@ import React from 'react';
 
 function Header() {
     return (
-      <div>
+      <h1>
         Expense Tracker App by Waqar Hassan
-      </div>
+      </h1>
+      
     );
   }
 
